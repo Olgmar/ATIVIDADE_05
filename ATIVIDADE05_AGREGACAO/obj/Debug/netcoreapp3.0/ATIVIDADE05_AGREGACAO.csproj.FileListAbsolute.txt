@@ -1,0 +1,11 @@
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\obj\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.csprojAssemblyReference.cache
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\obj\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.AssemblyInfoInputs.cache
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\obj\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.AssemblyInfo.cs
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\bin\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.exe
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\bin\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.deps.json
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\bin\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.runtimeconfig.json
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\bin\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.runtimeconfig.dev.json
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\bin\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.dll
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\bin\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.pdb
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\obj\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.dll
+C:\Users\olgma\source\repos\ATIVIDADE05_AGREGACAO\ATIVIDADE05_AGREGACAO\obj\Debug\netcoreapp3.0\ATIVIDADE05_AGREGACAO.pdb
